@@ -1,0 +1,15 @@
+.name {
+    margin-top: 8px;
+    font-size: 20px;
+}
+.online {
+    color: #0aad22;
+}
+.offline {
+    color: #de1b1b;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
